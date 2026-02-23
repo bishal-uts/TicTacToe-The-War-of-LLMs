@@ -1,0 +1,23 @@
+# Tic-Tac-Toe - Requirements
+# Core game runs with no dependencies (Python 3.8+ standard library only)
+# Install the providers you want to use for LLM mode:
+
+# --- LLM Provider SDKs (all optional) ---
+
+# OpenAI (GPT-4, GPT-4o, GPT-3.5 — also used for XAI Grok)
+openai>=1.0.0
+
+# Anthropic (Claude)
+anthropic>=0.20.0
+
+# Google Gemini
+google-generativeai>=0.5.0
+
+# Groq
+groq>=0.4.0
+
+# Mistral
+mistralai>=1.0.0
+
+# Cohere
+cohere>=5.0.0
